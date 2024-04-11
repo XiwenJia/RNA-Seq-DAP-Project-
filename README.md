@@ -1,1 +1,1 @@
-# RNA-Seq-DAP-Project-
+# RNA-Seq (DAP) Project
